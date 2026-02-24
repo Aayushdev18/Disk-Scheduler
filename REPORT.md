@@ -11,6 +11,7 @@
 **Title:** Disk Scheduling Algorithm Simulator  
 
 **Team Members:**
+
 | S. No. | Name              | Role / Contribution   |
 |--------|-------------------|------------------------|
 | 1      | Gangadhar Yadav   | Backend, Algorithms   |
@@ -19,7 +20,7 @@
 
 **Date:** February 2026  
 
-**Institution:** [Your College/University Name]  
+**Institution:** Rishihood University
 
 ---
 
@@ -141,14 +142,6 @@ Design and implement a simulator that:
 - **SSTF** usually reduces seek time but can cause starvation for distant requests.
 - **SCAN / C-SCAN / LOOK / C-LOOK** balance performance and fairness; LOOK and C-LOOK avoid unnecessary movement to disk ends.
 
-### 8.3 Screenshots / Output
-
-*(Add screenshots here: input form, simulation result with charts, comparison view with bar chart and best algorithm.)*
-
-- Screenshot 1: Input panel with sample requests and algorithm selection  
-- Screenshot 2: Visualization – disk head movement and seek distance  
-- Screenshot 3: Comparison of all six algorithms (bar chart and table)  
-
 ---
 
 ## 9. Conclusion
@@ -166,7 +159,7 @@ The Disk Scheduling Algorithm Simulator successfully implements six standard OS 
 
 ---
 
-## 11. Appendix (Optional)
+## 11. Appendix
 
 ### A. How to Run the Project
 
@@ -191,7 +184,7 @@ Open http://localhost:3000 and use the UI to simulate and compare algorithms.
 
 ### B. Repository
 
-Project repository: [GitHub link – e.g. https://github.com/aryan7081/Disk-Scheduler]
+Project repository: [https://github.com/aryan7081/Disk-Scheduler](https://github.com/aryan7081/Disk-Scheduler)
 
 ---
 
