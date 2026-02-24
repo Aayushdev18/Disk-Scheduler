@@ -156,7 +156,6 @@ function InputPanel({ onSimulate, onCompare, loading }) {
             onChange={(e) => setDirection(e.target.value)}
           >
             <option value="right">Right (→)</option>
-            <option value="left">Left (←)</option>
           </select>
         </div>
       )}
